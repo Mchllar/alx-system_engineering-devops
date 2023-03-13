@@ -1,1 +1,1 @@
-Task 13  We are symbols, and inhabit symbols 
+Write a script that prints “Hello, World”, followed by a new line to the standard output.
